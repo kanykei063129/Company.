@@ -14,6 +14,9 @@ public class Group {
         this.dateOfFinish = dateOfFinish;
     }
 
+    public Group(String java, Student[] students, int i, int i1) {
+    }
+
     public String getName() {
         return name;
     }
